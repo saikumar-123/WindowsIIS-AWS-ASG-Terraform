@@ -1,0 +1,4 @@
+＜powershell＞
+  Invoke-WebRequest -Uri https://s3bucket/iypa-s3-filerepogp/Scripts/Automation_Scripts/ServerBuildScripts/IISwebserver/install-iis.ps1 -OutFile C:\Tools\install-iis.ps1
+  C:\Tools\install-iis.ps1
+＜/powershell＞
